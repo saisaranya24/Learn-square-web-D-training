@@ -1,0 +1,45 @@
+.myOwn{
+    background-color: blueviolet;
+}
+
+.edit{
+    font-size:25px;
+    background-color:green;
+}
+
+.delete{
+    font-size: 30px;
+    background-color: red;
+} 
+.sliderimage{
+    width: 100%;
+    height: 500px !important;
+}
+#use_of_offset{
+    height: 300px;
+    background-color: chartreuse;
+}
+
+#first {
+    height:200px;
+    background-color: orange;
+}
+#second {
+    height:200px;
+    background-color: rgb(202, 212, 110);
+}#third {
+    height:200px;
+    background-color: rgb(137, 210, 148);
+}#fourth {
+    height:200px;
+    background-color: rgb(123, 148, 213);
+}#fifth {
+    height:200px;
+    background-color: rgb(215, 179, 111);
+}#sixth {
+    height:200px;
+    background-color: rgb(171, 140, 211);
+}#seventh {
+    height:200px;
+    background-color: rgb(230, 159, 159);
+}
